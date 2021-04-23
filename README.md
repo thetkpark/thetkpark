@@ -4,17 +4,17 @@
 ### My name is Sethanant Pipatpakorn
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 395 Contributions in the Year 2021
+> 🏆 396 Contributions in the Year 2021
  > 
 > 📦 395.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 57 Public Repositories 
+> 📜 58 Public Repositories 
  > 
 > 🔑 18 Private Repositories  
  > 
