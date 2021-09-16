@@ -1,5 +1,8 @@
-# Hello!
-### My name is Sethanant Pipatpakorn
+# Hey, there 🙌
+My name is Sethanant Pipatpakorn. I'm a junior computer science student at SIT, KMUTT.
+
+I comfortable coding with NodeJS, Golang, and Java. I also love deploy and managed cloud infrastructure using GCP and Azure.
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thetkpark&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
