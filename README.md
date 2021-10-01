@@ -7,13 +7,13 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thetkpark&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 1,733 Contributions in the Year 2021
  > 
-> 📦 457.8 kB Used in GitHub's Storage 
+> 📦 457.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -76,5 +76,5 @@ Java                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2021
+ Last Updated on 01/10/2021
 <!--END_SECTION:waka-->
