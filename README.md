@@ -11,13 +11,13 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,735 Contributions in the Year 2021
+> 🏆 1,739 Contributions in the Year 2021
  > 
 > 📦 457.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 75 Public Repositories 
+> 📜 77 Public Repositories 
  > 
 > 🔑 26 Private Repositories  
  > 
@@ -50,16 +50,24 @@ Sunday       229 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               46 mins             █████████████████░░░░░░░░   67.94% 
+Go                       12 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.53% 
+YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.73% 
+SCSS                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 8 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+leetcode-patterns        34 mins             ████████████░░░░░░░░░░░░░   49.79% 
+Muse                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.66% 
+go                       12 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.53% 
+cscms-services-deployment6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.73% 
+sethanantp-dot-com       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 8 mins         █████████████████████████   100.0%
 
 ```
 
@@ -76,5 +84,5 @@ Java                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2021
+ Last Updated on 06/10/2021
 <!--END_SECTION:waka-->
