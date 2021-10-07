@@ -3,6 +3,7 @@ My name is Sethanant Pipatpakorn. I'm a junior computer science student at SIT, 
 
 I comfortable coding with NodeJS, Golang, and Java. I also love deploy and managed cloud infrastructure using GCP and Azure.
 
+![Github Stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thetkpark&theme=dracula)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thetkpark&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
