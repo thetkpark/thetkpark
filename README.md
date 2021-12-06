@@ -12,15 +12,15 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,895 Contributions in the Year 2021
+> 🏆 2,007 Contributions in the Year 2021
  > 
 > 📦 525.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 79 Public Repositories 
+> 📜 80 Public Repositories 
  > 
-> 🔑 28 Private Repositories  
+> 🔑 27 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -77,5 +77,5 @@ Java                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2021
+ Last Updated on 06/12/2021
 <!--END_SECTION:waka-->
