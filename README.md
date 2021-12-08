@@ -51,16 +51,16 @@ Sunday       245 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SQL                      8 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          8 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 mins              █████████████████████████   100.0%
 
 ```
 
@@ -77,5 +77,5 @@ Java                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/12/2021
+ Last Updated on 08/12/2021
 <!--END_SECTION:waka-->
