@@ -14,7 +14,7 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 
 > 🏆 2,025 Contributions in the Year 2021
  > 
-> 📦 525.9 kB Used in GitHub's Storage 
+> 📦 526.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,5 +85,5 @@ Java                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/12/2021
+ Last Updated on 12/12/2021
 <!--END_SECTION:waka-->
