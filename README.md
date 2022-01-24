@@ -8,7 +8,7 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thetkpark&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -51,20 +51,18 @@ Sunday       242 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               6 hrs 11 mins       █████████████████████████   99.81% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+TypeScript               2 hrs 8 mins        █████████████████████████   100.0% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-VS Code                  6 hrs 12 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 8 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-medu-backend             6 hrs 11 mins       █████████████████████████   99.97% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+medu-backend             2 hrs 8 mins        █████████████████████████   100.0% 
+cscms-services-deployment0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-Mac                      6 hrs 12 mins       █████████████████████████   100.0%
+Mac                      2 hrs 8 mins        █████████████████████████   100.0%
 
 ```
 
@@ -81,5 +79,5 @@ Java                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/01/2022 20:09:10 UTC
+ Last Updated on 24/01/2022 20:09:37 UTC
 <!--END_SECTION:waka-->
