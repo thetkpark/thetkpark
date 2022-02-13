@@ -8,13 +8,13 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thetkpark&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 90 Contributions in the Year 2022
+> 🏆 94 Contributions in the Year 2022
  > 
-> 📦 532.8 kB Used in GitHub's Storage 
+> 📦 533.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,9 +38,9 @@ Monday       332 commits    ████░░░░░░░░░░░░░�
 Tuesday      309 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.74% 
 Wednesday    325 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.5% 
 Thursday     376 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.93% 
-Friday       301 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.35% 
+Friday       297 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.16% 
 Saturday     211 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.06% 
-Sunday       243 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.59%
+Sunday       247 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.78%
 
 ```
 
@@ -84,5 +84,5 @@ Java                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2022 20:09:24 UTC
+ Last Updated on 13/02/2022 20:10:00 UTC
 <!--END_SECTION:waka-->
