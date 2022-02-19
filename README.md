@@ -8,7 +8,7 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thetkpark&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
 
 **🐱 My GitHub Data** 
 
@@ -51,16 +51,21 @@ Sunday       247 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               36 mins             ██████████████░░░░░░░░░░░   57.42% 
+YAML                     15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.5% 
+Go                       6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.71% 
+HTML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.37%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 3 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+leetcode-solution        42 mins             ████████████████░░░░░░░░░   67.13% 
+cscms-services-deployment15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.5% 
+Unknown Project          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.37%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 3 mins         █████████████████████████   100.0%
 
 ```
 
@@ -77,5 +82,5 @@ Java                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/02/2022 20:10:14 UTC
+ Last Updated on 19/02/2022 20:10:24 UTC
 <!--END_SECTION:waka-->
