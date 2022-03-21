@@ -14,7 +14,7 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 
 > 🏆 116 Contributions in the Year 2022
  > 
-> 📦 535.1 kB Used in GitHub's Storage 
+> 📦 566.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,7 +72,7 @@ Mac                      2 hrs 36 mins       ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               29 repos            ███████░░░░░░░░░░░░░░░░░░   30.85% 
+JavaScript               28 repos            ███████░░░░░░░░░░░░░░░░░░   29.79% 
 Go                       18 repos            ████░░░░░░░░░░░░░░░░░░░░░   19.15% 
 TypeScript               16 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
 HTML                     7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.45% 
@@ -82,5 +82,5 @@ Java                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2022 20:10:36 UTC
+ Last Updated on 21/03/2022 20:11:48 UTC
 <!--END_SECTION:waka-->
