@@ -8,7 +8,7 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thetkpark&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -51,22 +51,16 @@ Sunday       226 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               5 mins              ██████████████░░░░░░░░░░░   57.58% 
-Other                    2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.5% 
-JavaScript               2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.11% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-hospital-it-system-mock  9 mins              ████████████████████████░   98.98% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02% 
-zip-directory-encryption 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -83,5 +77,5 @@ Java                     6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/04/2022 20:12:19 UTC
+ Last Updated on 06/04/2022 20:11:08 UTC
 <!--END_SECTION:waka-->
