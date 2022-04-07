@@ -8,7 +8,7 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thetkpark&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -77,5 +77,5 @@ Java                     6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/04/2022 20:11:08 UTC
+ Last Updated on 07/04/2022 20:11:40 UTC
 <!--END_SECTION:waka-->
