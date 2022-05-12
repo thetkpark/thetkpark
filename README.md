@@ -8,13 +8,13 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thetkpark&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 174 Contributions in the Year 2022
+> 🏆 176 Contributions in the Year 2022
  > 
 > 📦 614.7 kB Used in GitHub's Storage 
  > 
@@ -28,18 +28,18 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 
 ```text
 🌞 Morning    344 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-🌆 Daytime    715 commits    █████████░░░░░░░░░░░░░░░░   38.96% 
-🌃 Evening    767 commits    ██████████░░░░░░░░░░░░░░░   41.8% 
+🌆 Daytime    717 commits    █████████░░░░░░░░░░░░░░░░   39.07% 
+🌃 Evening    765 commits    ██████████░░░░░░░░░░░░░░░   41.69% 
 🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       302 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.46% 
+Monday       300 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.35% 
 Tuesday      269 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.66% 
 Wednesday    265 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
-Thursday     334 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.2% 
+Thursday     336 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.31% 
 Friday       270 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
 Saturday     198 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.79% 
 Sunday       197 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.74%
@@ -81,5 +81,5 @@ Java                     6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2022 20:12:24 UTC
+ Last Updated on 12/05/2022 20:12:32 UTC
 <!--END_SECTION:waka-->
