@@ -53,18 +53,16 @@ Sunday       197 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               12 mins             █████████████████████░░░░   86.51% 
-Other                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.44% 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-appwrite-confessions     14 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -81,5 +79,5 @@ Java                     6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2022 20:13:22 UTC
+ Last Updated on 14/05/2022 20:11:39 UTC
 <!--END_SECTION:waka-->
