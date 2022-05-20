@@ -10,7 +10,7 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -83,5 +83,5 @@ Java                     6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2022 20:11:52 UTC
+ Last Updated on 20/05/2022 20:11:52 UTC
 <!--END_SECTION:waka-->
