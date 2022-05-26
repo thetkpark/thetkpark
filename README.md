@@ -53,16 +53,16 @@ Sunday       200 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-YAML                     24 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-csc-works                24 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      24 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -79,5 +79,5 @@ Java                     6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2022 20:12:11 UTC
+ Last Updated on 26/05/2022 20:12:47 UTC
 <!--END_SECTION:waka-->
