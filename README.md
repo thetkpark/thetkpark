@@ -8,7 +8,7 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thetkpark&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-765%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-768%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -88,5 +88,5 @@ Java                     7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2022 20:12:48 UTC
+ Last Updated on 08/09/2022 20:13:19 UTC
 <!--END_SECTION:waka-->
