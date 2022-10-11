@@ -8,9 +8,9 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thetkpark&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-843%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-847%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -24,57 +24,6 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
  > 
 > 🔑 32 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    318 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.31% 
-🌆 Daytime    639 commits    █████████░░░░░░░░░░░░░░░░   36.79% 
-🌃 Evening    777 commits    ███████████░░░░░░░░░░░░░░   44.73% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       255 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.68% 
-Tuesday      286 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.47% 
-Wednesday    314 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.08% 
-Thursday     285 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.41% 
-Friday       236 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.59% 
-Saturday     187 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.77% 
-Sunday       174 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.02%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-TypeScript               11 hrs 25 mins      █████████████████░░░░░░░░   69.31% 
-Go                       1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
-YAML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.76% 
-Terraform                1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.49% 
-JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25%
-
-🔥 Editors: 
-VS Code                  14 hrs 29 mins      ██████████████████████░░░   87.99% 
-GoLand                   1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.01%
-
-🐱‍💻 Projects: 
-measurement-result-api   9 hrs 50 mins       ███████████████░░░░░░░░░░   59.71% 
-mock-generator           2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.69% 
-backend-api              1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.52% 
-infrastructure           1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.46% 
-rpi-home-apps            26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.72%
-
-💻 Operating System: 
-Mac                      16 hrs 28 mins      █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -88,5 +37,5 @@ Java                     7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2022 20:13:59 UTC
+ Last Updated on 11/10/2022 20:15:53 UTC
 <!--END_SECTION:waka-->
