@@ -7,6 +7,8 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thetkpark&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000347.6120fcbefcb74cd59d65c108cc315787.1333)](https://github.com/rayriffy/apple-music-github-profile)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-847%20hrs%2015%20mins-blue)
 
