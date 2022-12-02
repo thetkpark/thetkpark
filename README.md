@@ -55,16 +55,16 @@ Sunday       188 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               35 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  35 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-physic-project           35 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      35 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -81,5 +81,5 @@ Java                     7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2022 20:10:45 UTC
+ Last Updated on 02/12/2022 20:10:16 UTC
 <!--END_SECTION:waka-->
