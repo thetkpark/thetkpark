@@ -10,7 +10,7 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 [![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000347.6120fcbefcb74cd59d65c108cc315787.1333)](https://github.com/rayriffy/apple-music-github-profile)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-940%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-940%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -18,7 +18,7 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 
 > 🏆 1,732 Contributions in the Year 2022
  > 
-> 📦 577.6 kB Used in GitHub's Storage 
+> 📦 577.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,17 +55,20 @@ Sunday       180 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Terraform                1 min               ███████████████████░░░░░░   78.74% 
-YAML                     0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.26%
+JavaScript               7 mins              ███████████████████░░░░░░   79.17% 
+Terraform                1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.74% 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.71% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39%
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
+VS Code                  9 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-infrastructure           1 min               █████████████████████████   100.0%
+physic-project           7 mins              ████████████████████░░░░░   82.55% 
+infrastructure           1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.45%
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.0%
+Mac                      9 mins              █████████████████████████   100.0%
 
 ```
 
@@ -82,5 +85,5 @@ Java                     7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2022 20:10:43 UTC
+ Last Updated on 06/12/2022 20:10:41 UTC
 <!--END_SECTION:waka-->
