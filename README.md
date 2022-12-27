@@ -10,7 +10,7 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 [![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000347.6120fcbefcb74cd59d65c108cc315787.1333)](https://github.com/rayriffy/apple-music-github-profile)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-951%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-953%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -55,17 +55,21 @@ Sunday       180 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-YAML                     21 mins             ███████████████████████░░   95.02% 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.98%
+TypeScript               1 hr 44 mins        ██████████████████░░░░░░░   73.89% 
+YAML                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.02% 
+JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.4% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.93% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.0%
+VS Code                  2 hrs 21 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-cscms-services-deployment22 mins             █████████████████████████   100.0%
+skooldio-backend-homework1 hr 59 mins        █████████████████████░░░░   84.19% 
+cscms-services-deployment22 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81%
 
 💻 Operating System: 
-Mac                      22 mins             █████████████████████████   100.0%
+Mac                      2 hrs 21 mins       █████████████████████████   100.0%
 
 ```
 
@@ -82,5 +86,5 @@ Java                     7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/12/2022 20:09:27 UTC
+ Last Updated on 27/12/2022 20:09:57 UTC
 <!--END_SECTION:waka-->
