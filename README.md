@@ -16,7 +16,7 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,787 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 579.3 kB Used in GitHub's Storage 
  > 
@@ -85,5 +85,5 @@ Java                     7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2022 20:09:03 UTC
+ Last Updated on 01/01/2023 20:09:56 UTC
 <!--END_SECTION:waka-->
