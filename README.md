@@ -26,6 +26,48 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
  > 
 > 🔑 32 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    291 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.78% 
+🌆 Daytime    637 commits    █████████░░░░░░░░░░░░░░░░   38.91% 
+🌃 Evening    693 commits    ██████████░░░░░░░░░░░░░░░   42.33% 
+🌙 Night      16 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       257 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.7% 
+Tuesday      267 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.31% 
+Wednesday    289 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+Thursday     272 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.62% 
+Friday       202 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.34% 
+Saturday     170 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.38% 
+Sunday       180 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -39,5 +81,5 @@ Java                     7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2023 20:09:30 UTC
+ Last Updated on 03/01/2023 20:10:02 UTC
 <!--END_SECTION:waka-->
