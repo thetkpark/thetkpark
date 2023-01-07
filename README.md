@@ -10,7 +10,7 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 [![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000347.6120fcbefcb74cd59d65c108cc315787.1333)](https://github.com/rayriffy/apple-music-github-profile)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-953%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-956%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -18,7 +18,7 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 
 > 🏆 3 Contributions in the Year 2023
  > 
-> 📦 580.1 kB Used in GitHub's Storage 
+> 📦 580.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,16 +55,25 @@ Sunday       180 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       3 hrs 7 mins        ████████████████████████░   97.06% 
+Makefile                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08% 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
+go.mod                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   3 hrs 8 mins        ████████████████████████░   97.64% 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+lineman-wongnai-assignmen2 hrs 49 mins       ██████████████████████░░░   87.86% 
+backend-api              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
+Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.6% 
+codes                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67% 
+Covid Summary API_Sethana0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 13 mins       █████████████████████████   100.0%
 
 ```
 
@@ -81,5 +90,5 @@ Java                     7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/01/2023 20:10:10 UTC
+ Last Updated on 07/01/2023 20:09:44 UTC
 <!--END_SECTION:waka-->
