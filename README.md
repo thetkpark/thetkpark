@@ -55,16 +55,16 @@ Sunday       158 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-YAML                     3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cscms-services-deployment3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -81,5 +81,5 @@ Java                     7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2023 20:11:02 UTC
+ Last Updated on 07/02/2023 20:10:32 UTC
 <!--END_SECTION:waka-->
