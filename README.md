@@ -10,7 +10,7 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 [![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000347.6120fcbefcb74cd59d65c108cc315787.1333)](https://github.com/rayriffy/apple-music-github-profile)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-961%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-961%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
@@ -55,16 +55,16 @@ Sunday         158 commits       ██░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     10 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+cscms-services-deployment10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      10 mins             █████████████████████████   100.00 % 
 
 ```
 
@@ -81,5 +81,5 @@ Java                     7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/02/2023 20:11:16 UTC
+ Last Updated on 14/02/2023 20:10:54 UTC
 <!--END_SECTION:waka-->
