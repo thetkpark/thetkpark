@@ -10,7 +10,7 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 [![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000347.6120fcbefcb74cd59d65c108cc315787.1333)](https://github.com/rayriffy/apple-music-github-profile)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-961%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-961%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
@@ -18,7 +18,7 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 
 > 🏆 10 Contributions in the Year 2023
  > 
-> 📦 580.5 kB Used in GitHub's Storage 
+> 📦 580.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,18 +55,18 @@ Sunday         158 commits       ██░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-YAML                     10 mins             █████████████████░░░░░░░░   70.35 % 
-Go                       4 mins              ███████░░░░░░░░░░░░░░░░░░   29.65 % 
+YAML                     20 mins             ████████████████████░░░░░   81.89 % 
+Go                       4 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.11 % 
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+VS Code                  25 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cscms-services-deployment10 mins             █████████████████░░░░░░░░   70.35 % 
-Unknown Project          4 mins              ███████░░░░░░░░░░░░░░░░░░   29.65 % 
+cscms-services-deployment20 mins             ████████████████████░░░░░   81.89 % 
+Unknown Project          4 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.11 % 
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+Mac                      25 mins             █████████████████████████   100.00 % 
 
 ```
 
@@ -83,5 +83,5 @@ Java                     7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/02/2023 20:09:11 UTC
+ Last Updated on 18/02/2023 20:08:31 UTC
 <!--END_SECTION:waka-->
