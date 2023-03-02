@@ -10,13 +10,13 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 [![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000347.6120fcbefcb74cd59d65c108cc315787.1333)](https://github.com/rayriffy/apple-music-github-profile)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-970%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-970%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 580.6 kB Used in GitHub's Storage 
+> 📦 580.9 kB Used in GitHub's Storage 
  > 
 > 🏆 10 Contributions in the Year 2023
  > 
@@ -53,22 +53,18 @@ Sunday                   249 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-YAML                     4 hrs 34 mins       ████████████████████████░   95.78 % 
-Bash                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+YAML                     5 hrs 11 mins       █████████████████████████   99.93 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 46 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-udemy-istio              4 hrs 34 mins       ████████████████████████░   95.85 % 
-dotfiles                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-cscms-services-deployment0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+udemy-istio              4 hrs 34 mins       ██████████████████████░░░   88.11 % 
+cscms-services-deployment37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
 
 💻 Operating System: 
-Mac                      4 hrs 46 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -84,5 +80,5 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2023 20:09:52 UTC
+ Last Updated on 02/03/2023 20:10:10 UTC
 <!--END_SECTION:waka-->
