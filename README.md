@@ -10,7 +10,7 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 [![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000347.6120fcbefcb74cd59d65c108cc315787.1333)](https://github.com/rayriffy/apple-music-github-profile)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-971%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-971%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -53,18 +53,17 @@ Sunday                   249 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-YAML                     5 hrs 7 mins        █████████████████████████   99.93 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+YAML                     1 hr 13 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 8 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-udemy-istio              4 hrs 11 mins       ████████████████████░░░░░   81.76 % 
-cscms-services-deployment56 mins             █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+cscms-services-deployment56 mins             ███████████████████░░░░░░   76.10 % 
+vpn                      17 mins             ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
 
 💻 Operating System: 
-Mac                      5 hrs 8 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,5 +79,5 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/03/2023 20:09:53 UTC
+ Last Updated on 07/03/2023 20:09:46 UTC
 <!--END_SECTION:waka-->
