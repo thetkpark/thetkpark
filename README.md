@@ -53,16 +53,16 @@ Sunday                   5047 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               36 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  36 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+which-card-to-pay        36 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      36 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,5 +78,5 @@ HCL                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2023 20:14:37 UTC
+ Last Updated on 03/09/2023 20:14:07 UTC
 <!--END_SECTION:waka-->
