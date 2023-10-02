@@ -12,7 +12,7 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C020%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -78,5 +78,5 @@ HCL                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2023 20:15:03 UTC
+ Last Updated on 02/10/2023 20:17:54 UTC
 <!--END_SECTION:waka-->
