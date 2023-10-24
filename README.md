@@ -10,9 +10,9 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 [![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000347.6120fcbefcb74cd59d65c108cc315787.1333)](https://github.com/rayriffy/apple-music-github-profile)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C024%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C025%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
@@ -53,20 +53,20 @@ Sunday                   5095 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               1 hr 42 mins        ███████████████████████░░   90.25 % 
-TSQL                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+TypeScript               2 hrs 5 mins        ███████████████████████░░   91.86 % 
+TSQL                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  1 hr 53 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Graduation-Bot           1 hr 53 mins        █████████████████████████   100.00 % 
+Graduation-Bot           2 hrs 16 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 53 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,5 +82,5 @@ HCL                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2023 20:15:02 UTC
+ Last Updated on 24/10/2023 20:17:35 UTC
 <!--END_SECTION:waka-->
