@@ -10,7 +10,7 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 [![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000347.6120fcbefcb74cd59d65c108cc315787.1333)](https://github.com/rayriffy/apple-music-github-profile)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C033%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C033%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -53,19 +53,19 @@ Sunday                   5120 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               34 mins             ██████████████████░░░░░░░   71.72 % 
-JavaScript               12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
-Docker                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+TypeScript               57 mins             ████████████████████░░░░░   80.62 % 
+JavaScript               12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🔥 Editors: 
-VS Code                  48 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Graduation-Bot           35 mins             ███████████████████░░░░░░   74.33 % 
-temp                     12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
+Graduation-Bot           58 mins             █████████████████████░░░░   82.56 % 
+temp                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
 
 💻 Operating System: 
-Mac                      48 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,5 +81,5 @@ HCL                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2023 20:15:25 UTC
+ Last Updated on 11/11/2023 20:14:42 UTC
 <!--END_SECTION:waka-->
