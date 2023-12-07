@@ -10,6 +10,8 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 [![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000347.6120fcbefcb74cd59d65c108cc315787.1333)](https://github.com/rayriffy/apple-music-github-profile)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C035%20hrs%2047%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -51,16 +53,17 @@ Sunday                   4944 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Terraform                16 mins             ████████████████████████░   94.27 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Terraform                16 mins             ████████████████████████░   94.28 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 🔥 Editors: 
 VS Code                  17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-terraform-batch-module   16 mins             ████████████████████████░   96.54 % 
-dotfiles                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+terraform-batch-module   16 mins             ████████████████████████░   96.42 % 
+dotfiles                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+terraform-root           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
 Mac                      17 mins             █████████████████████████   100.00 % 
@@ -79,5 +82,5 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2023 20:16:34 UTC
+ Last Updated on 07/12/2023 20:16:09 UTC
 <!--END_SECTION:waka-->
