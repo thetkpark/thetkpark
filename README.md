@@ -10,7 +10,7 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 [![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000347.6120fcbefcb74cd59d65c108cc315787.1333)](https://github.com/rayriffy/apple-music-github-profile)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C042%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C042%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -53,16 +53,25 @@ Sunday                   4769 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       5 mins              ████████████████░░░░░░░░░   63.91 % 
+Terraform                2 mins              ███████░░░░░░░░░░░░░░░░░░   28.44 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+GitIgnore file           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   6 mins              ██████████████████░░░░░░░   71.56 % 
+VS Code                  2 mins              ███████░░░░░░░░░░░░░░░░░░   28.44 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+go-playground            3 mins              █████████░░░░░░░░░░░░░░░░   36.47 % 
+terraform-root           2 mins              ███████░░░░░░░░░░░░░░░░░░   28.44 % 
+Unknown Project          1 min               ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+go-crypto                0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+neo-secure-gateway       0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,5 +87,5 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2024 20:15:13 UTC
+ Last Updated on 04/01/2024 20:15:18 UTC
 <!--END_SECTION:waka-->
