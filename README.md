@@ -53,16 +53,17 @@ Sunday                   4769 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       35 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   35 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+neo-mobile-api-gateway   32 mins             ███████████████████████░░   91.43 % 
+neo-bulk-disable-service 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      35 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,5 +79,5 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/02/2024 20:14:38 UTC
+ Last Updated on 23/02/2024 20:16:22 UTC
 <!--END_SECTION:waka-->
