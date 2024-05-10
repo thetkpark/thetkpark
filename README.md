@@ -53,17 +53,16 @@ Sunday                   4771 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Terraform                15 mins             █████████████████████████   99.64 % 
-HCL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-terraform-bucket-module  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,5 +78,5 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/05/2024 20:15:03 UTC
+ Last Updated on 10/05/2024 20:15:08 UTC
 <!--END_SECTION:waka-->
