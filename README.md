@@ -18,8 +18,6 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 
 > 📦 582.3 kB Used in GitHub's Storage 
  > 
-> 🏆 13 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 113 Public Repositories 
@@ -53,16 +51,16 @@ Sunday                   4780 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,5 +76,5 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/06/2024 20:15:24 UTC
+ Last Updated on 23/06/2024 20:16:06 UTC
 <!--END_SECTION:waka-->
