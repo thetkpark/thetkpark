@@ -10,8 +10,6 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 [![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000347.6120fcbefcb74cd59d65c108cc315787.1333)](https://github.com/rayriffy/apple-music-github-profile)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C066%20hrs%2017%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -30,7 +28,7 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 
 ```text
 🌞 Morning                5880 commits        █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-🌆 Daytime                9479 commits        █████████░░░░░░░░░░░░░░░░   34.69 % 
+🌆 Daytime                9480 commits        █████████░░░░░░░░░░░░░░░░   34.69 % 
 🌃 Evening                11816 commits       ███████████░░░░░░░░░░░░░░   43.24 % 
 🌙 Night                  150 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
@@ -43,7 +41,7 @@ Wednesday                3353 commits        ███░░░░░░░░�
 Thursday                 2815 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
 Friday                   3879 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
 Saturday                 2584 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Sunday                   4780 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+Sunday                   4781 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
 ```
 
 
@@ -53,16 +51,19 @@ Sunday                   4780 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     56 mins             ████████████████████████░   95.42 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  58 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+cscms-services-deployment45 mins             ███████████████████░░░░░░   77.05 % 
+try-immich               13 mins             ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      58 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,5 +79,5 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2024 20:18:56 UTC
+ Last Updated on 10/11/2024 20:17:37 UTC
 <!--END_SECTION:waka-->
