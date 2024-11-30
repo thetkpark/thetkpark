@@ -10,13 +10,15 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 [![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000347.6120fcbefcb74cd59d65c108cc315787.1333)](https://github.com/rayriffy/apple-music-github-profile)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C068%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C069%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 582.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 13 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,20 +53,21 @@ Sunday                   4781 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               1 hr 54 mins        ███████████████████████░░   91.61 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+TypeScript               2 hrs 32 mins       █████████████████████░░░░   82.31 % 
+JavaScript               23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-WebStorm                 2 hrs 5 mins        █████████████████████████   100.00 % 
+WebStorm                 3 hrs 5 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-neo-pdf-service          2 hrs 5 mins        █████████████████████████   100.00 % 
+neo-pdf-service          2 hrs 45 mins       ██████████████████████░░░   89.29 % 
+morgan                   19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
 
 💻 Operating System: 
-Mac                      2 hrs 5 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -80,5 +83,5 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2024 20:18:33 UTC
+ Last Updated on 30/11/2024 20:17:51 UTC
 <!--END_SECTION:waka-->
