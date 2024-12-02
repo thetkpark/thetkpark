@@ -10,6 +10,8 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 [![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000347.6120fcbefcb74cd59d65c108cc315787.1333)](https://github.com/rayriffy/apple-music-github-profile)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C070%20hrs%2027%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -81,5 +83,5 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2024 20:18:49 UTC
+ Last Updated on 02/12/2024 20:19:51 UTC
 <!--END_SECTION:waka-->
