@@ -53,19 +53,16 @@ Sunday                   4781 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               7 mins              ███████████████████████░░   93.12 % 
-Vue.js                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-save-smart               8 mins              ████████████████████████░   96.74 % 
-Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,5 +78,5 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/01/2025 20:17:32 UTC
+ Last Updated on 12/01/2025 20:17:21 UTC
 <!--END_SECTION:waka-->
