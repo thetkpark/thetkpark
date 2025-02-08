@@ -18,6 +18,8 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 
 > 📦 582.5 kB Used in GitHub's Storage 
  > 
+> 🏆 52 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 115 Public Repositories 
@@ -51,16 +53,16 @@ Sunday                   4797 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-GoLand                   4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-uob-thai-credit-card-noti4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -76,5 +78,5 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/02/2025 20:18:24 UTC
+ Last Updated on 08/02/2025 20:16:20 UTC
 <!--END_SECTION:waka-->
