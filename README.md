@@ -18,8 +18,6 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 
 > 📦 582.6 kB Used in GitHub's Storage 
  > 
-> 🏆 52 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 115 Public Repositories 
@@ -78,5 +76,5 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/03/2025 20:19:48 UTC
+ Last Updated on 11/03/2025 20:22:18 UTC
 <!--END_SECTION:waka-->
