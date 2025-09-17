@@ -10,6 +10,8 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 [![Apple Music GitHub profile](https://apple-music-github-profile.rayriffy.com/theme/light.svg?uid=000347.6120fcbefcb74cd59d65c108cc315787.1333)](https://github.com/rayriffy/apple-music-github-profile)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C084%20hrs%204%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -24,6 +26,45 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
  > 
 > 🔑 36 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                5896 commits        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+🌆 Daytime                9491 commits        █████████░░░░░░░░░░░░░░░░   34.66 % 
+🌃 Evening                11845 commits       ███████████░░░░░░░░░░░░░░   43.26 % 
+🌙 Night                  151 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   6864 commits        ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+Tuesday                  3061 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Wednesday                3373 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Thursday                 2815 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Friday                   3886 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Saturday                 2586 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Sunday                   4798 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -37,5 +78,5 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2025 20:19:42 UTC
+ Last Updated on 17/09/2025 20:19:21 UTC
 <!--END_SECTION:waka-->
