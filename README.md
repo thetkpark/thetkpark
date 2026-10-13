@@ -12,7 +12,7 @@ I comfortable coding with NodeJS, Golang, and Java. I also love deploy and manag
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C059%20hrs%2033%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -84,5 +84,5 @@ Vue                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 23:29:06 UTC
+ Last Updated on 13/10/2026 01:52:30 UTC
 <!--END_SECTION:waka-->
